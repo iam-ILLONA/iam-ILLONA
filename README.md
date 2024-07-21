@@ -1,7 +1,7 @@
 [![MasterHead](https://i.ibb.co/Xkh5NVJ/Banner.png)](https://i.ibb.co/Xkh5NVJ/Banner.png)
 <h1 align="center">Hi 👋, I'm Illona </h1>
 <h3 align="center">👩‍💻In a world of ‘can’t’s, She whispered ‘I can’, and in doing so, she became an unstoppable force! I am a Software Engineer passionate about using technology to make a difference. I'm currently pursuing a Computer Science degree at Accra Technical University and have a strong foundation in building web applications that are both effective and enjoyable to use.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/5smmsfv/cta.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-illona&label=Profile%20views&color=0e75b6&style=flat" alt="iam-illona" /> </p>
 
